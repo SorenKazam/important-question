@@ -50,10 +50,10 @@ yesBtn.addEventListener("click", () => {
     noBtn.style.display = "none";
 
     /* Gif config */
+    resultImg.src="./assets/kittenHearts.gif";
     resultImg.style.display = "block"
     resultImg.style.width = "100%"
     resultImg.alt="Cute white kitten with hearts"
-    resultImg.src="/assets/kittenHearts.gif";
 });
 
 // If mouse comes nearby "No"
