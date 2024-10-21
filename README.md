@@ -12,6 +12,3 @@ The No button will try to escape
 ![image](https://github.com/user-attachments/assets/fffe3346-e27d-4d0e-b6b6-9e8fbca2c193)
 If user clicks Yes, this screen will appear
 ![image](https://github.com/user-attachments/assets/a26e70b6-57d9-4aea-b87b-2769923eb706)
-
-
-
